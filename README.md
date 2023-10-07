@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and AI Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
 
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apprentice-doa" alt="apprentice-doa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apprentice-doa" alt="apprentice-doa" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision, Natural Language Processing, LLMs, GANs, MLOps.**
 
