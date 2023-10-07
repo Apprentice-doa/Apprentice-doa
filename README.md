@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel (Kaggle Expert)</h1>
 <h3 align="center">A passionate Data Scientist and AI Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-13839287635814292878">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apprentice-doa" alt="apprentice-doa" /></a> </p>
 
