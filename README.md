@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel (Kaggle Expert)</h1>
 <h3 align="center">A passionate Data Scientist and AI Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FwA8Gx_UqnY4AAAAC%2Fcoding.gif&tbnid=X5_HnK1cet1OgM&vet=12ahUKEwjd7L3Di-SBAxVXpicCHUuzCGkQMygcegUIARDGAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-13839287635814292878&docid=4JFOz03pwRgjrM&w=498&h=498&q=animated%20%20coding%20gif&ved=2ahUKEwjd7L3Di-SBAxVXpicCHUuzCGkQMygcegUIARDGAQ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apprentice-doa" alt="apprentice-doa" /></a> </p>
 
