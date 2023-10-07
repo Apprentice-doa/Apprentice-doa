@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Apprentice-doa/Apprentice-doa/blob/main/Daniel%20Coverphoto%20linkedin.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daniel (Kaggle Expert)</h1>
 <h3 align="center">A passionate Data Scientist and AI Developer</h3>
 
