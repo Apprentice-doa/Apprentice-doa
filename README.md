@@ -34,6 +34,12 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=apprentice-doa&" alt="apprentice-doa" width="400" height="500" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&locale=en" alt="apprentice-doa" width="400" height="400" /></p>
 
+<p style="float: left; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=apprentice-doa&" alt="apprentice-doa" width="400" height="500" />
+</p>
+<p style="float: right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&locale=en" alt="apprentice-doa" width="400" height="400" />
+</p>
 
 
 
