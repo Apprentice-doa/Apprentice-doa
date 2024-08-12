@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Advanced Analytics, Stable Diffusion, Generative AI, Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/daniel-akhabue](https://bit.ly/daniel-akhabue)
+- 👨‍💻 All of my projects are available at [ https://bit.ly/danny-akhabue]( https://bit.ly/danny-akhabue)
 
 - 📝 I regularly write articles on [https://quantumreports.medium.com/](https://quantumreports.medium.com/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akdaniel0009@gmail.com**
 
-- 📄 Know about my experiences [https://zindi.africa/users/Apprentice-doa/](https://zindi.africa/users/Apprentice-doa/)
+- 📄 Know about my experiences [https://zindi.africa/users/Oracle_](https://zindi.africa/users/Oracle_)
 
 - ⚡ Fun fact: **I am a Data Bender**
 
