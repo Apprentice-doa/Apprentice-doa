@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Apprentice-doa/Apprentice-doa/blob/main/Daniel%20Coverphoto%20linkedin.png)](https://bit.ly/daniel-akhabue)
 <h1 align="center">Hi 👋, I'm Daniel (Kaggle Expert)</h1>
-<h3 align="center">A passionate Data Scientist and AI Developer</h3>
+<h3 align="center">A passionate Data Scientist and AI Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
 
