@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Advanced Analytics, Stable Diffusion, Generative AI, Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [ https://bit.ly/danny-akhabue](https://v0-daniel-akhabue.vercel.app/)
+- 👨‍💻 All of my projects are available at [ https://danny-akhabue.com](https://v0-daniel-akhabue.vercel.app/)
 
 - 📝 I regularly write articles on [https://quantumreports.medium.com/](https://quantumreports.medium.com/)
 
