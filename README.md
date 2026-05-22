@@ -34,7 +34,7 @@ I specialize in the full AI lifecycle: from data engineering and model training 
 - 🎙️ **International Speaker**: PyCon Kenya 2025 · Datafest Africa 2024 · Black in Robotics 2025 (USA)
 - 🏫 **AI Faculty**, Univaciti TeSA Program: training the next generation of production-ready AI engineers
 - ☁️ Contributed to Qucoon's **AWS AI Competency** in Generative AI & Machine Learning Services
-- 🌍 **Organising Team Member & Faculty**, [AISOC (AI Summer of Code)](https://github.com/aisoc): the world's largest community for incubating AI talents
+- 🌍 **Organising Team Member & Faculty**, [AISOC (AI Summer of Code)](https://aisummerofcode.org/): the world's largest community for incubating AI talents
 - ✍️ I write about AI strategy and engineering at [Quantum Reports on Medium](https://quantumreports.medium.com/)
 - ⚡ Fun fact: I'm a certified **Data Bender**: I make data do things it didn't know it could
 
