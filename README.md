@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 <img src="https://github.com/Apprentice-doa/Apprentice-doa/blob/main/Daniel%20Coverphoto%20linkedin.png" alt="Daniel Akhabue" width="100%" />
 
@@ -145,15 +145,6 @@ I am further interested in federated learning frameworks for collaborative model
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apprentice-doa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-  </tr>
-</table>
-
-<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apprentice-doa&theme=tokyonight&hide_border=true)
 
