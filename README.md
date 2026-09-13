@@ -1,9 +1,9 @@
-<div align="center">
+\<div align="center">
 
 <img src="https://github.com/Apprentice-doa/Apprentice-doa/blob/main/Daniel%20Coverphoto%20linkedin.png" alt="Daniel Akhabue" width="100%" />
 
 # Daniel Akhabue
-### Senior AI Engineer · Senior Data Scientist · Kaggle Expert (#416 Global Rank)
+### Senior AI Engineer · Senior Data Scientist · Robotics Researcher · Kaggle Expert (#416 Global Rank)
 
 *I build intelligent systems that work in production: not just in notebooks.*
 *From multi-agent banking AI to computer vision security systems, I bridge cutting-edge AI with real enterprise impact.*
@@ -25,9 +25,9 @@
 
 ## 👤 About Me
 
-I'm a **Senior AI Engineer and Data Scientist** based in Lagos, Nigeria, with **4+ years** of experience building and deploying production-grade AI systems across banking, healthcare, government, and EdTech.
+I'm a **Senior AI Engineer and Data Scientist** based in Lagos, Nigeria, with **5+ years** of experience building and deploying production-grade AI systems across banking, healthcare, government, EdTech, and Enterprise Systems.
 
-I specialize in the full AI lifecycle: from data engineering and model training to LLM orchestration, multi-agent systems, and cloud-native MLOps on AWS and Azure. I don't just build models; I build systems that enterprises trust.
+I specialize in the full AI lifecycle: from data engineering and model training to LLM orchestration, multi-agent systems, and cloud-native MLOps on AWS, GCP, and Azure. I don't just build models; I build systems that enterprises trust.
 
 - 🏆 **Kaggle Expert**: Global Rank **#416**
 - 🥇 **4x Hackathon Winner**: including 1st Place at Zaka 2023 AI Challenge & Deep Learning IndabaX Nigeria
@@ -36,11 +36,26 @@ I specialize in the full AI lifecycle: from data engineering and model training 
 - ☁️ Contributed to Qucoon's **AWS AI Competency** in Generative AI & Machine Learning Services
 - 🌍 **Organising Team Member & Faculty**, [AISOC (AI Summer of Code)](https://aisummerofcode.org/): the world's largest community for incubating AI talents
 - ✍️ I write about AI strategy and engineering at [Quantum Reports on Medium](https://quantumreports.medium.com/)
+- 🤖 **Robotics Researcher**: exploring the intersection of AI, perception, and autonomous systems
 - ⚡ Fun fact: I'm a certified **Data Bender**: I make data do things it didn't know it could
+
+### 🔬 Research Interests
+
+My research lies at the intersection of autonomous systems, multi-agent orchestration, and edge intelligence. I focus on the architectural design of communication mesh networks and decentralized coordination protocols for multi-robot swarm systems spanning aerial, terrestrial, and aquatic platforms. A core emphasis is cost-efficiency and fault tolerance through localized machine learning deployed directly on resource-constrained embedded hardware.
+
+I am further interested in federated learning frameworks for collaborative model training across distributed robot nodes, and reinforcement learning approaches for adaptive control and emergent coordination in multi-agent settings. Beyond low-level control and multi-robot path planning, I am interested in distributed Vision-Language Model (VLM) reasoning across robot networks to enable collaborative, real-time spatial awareness and autonomous decision-making in complex, dynamic environments.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Federated Anomaly Detection on Edge Devices *(Best Poster — Deep Learning Indaba 2026)*
+**Problem:** FedAvg is assumed to outperform local training on edge devices, but this assumption is untested in the minimal-client regime (2–3 physical devices) that most real deployments start with  
+**Solution:** Ran controlled experiments on real heterogeneous hardware (Raspberry Pi 4 ARM64 + x86_64 gateway) comparing local-only, centralized, and FedAvg on system telemetry anomaly detection — then isolated client count from heterogeneity via a sub-client sweep  
+**Finding:** FedAvg *fails* at 2 clients (0.789 F1 vs. 0.895 centralized), peaks at round 5 then degrades — client count, not data heterogeneity, is the causal variable. Above ~6 clients, FedAvg recovers and wins  
+**Stack:** `Federated Learning` `FedAvg` `Raspberry Pi` `Edge AI` `PyTorch` `Anomaly Detection` `Python`
+
+---
 
 ### 🏦 Nigeria's First Cloud-Native Agentic Banking AI
 **Problem:** Enterprise digital banking overwhelmed by customer enquiries, manual transactions, and fragmented multilingual support  
@@ -116,6 +131,7 @@ I specialize in the full AI lifecycle: from data engineering and model training 
 
 | | Achievement |
 |---|---|
+| 🏆 | Deep Learning Indaba 2026: **Best Poster Award** — *Does Federated Learning Need a Crowd?* (Poster GP-80) |
 | 🥇 | Zaka 2023 AI Challenge: **1st Place** (Team Synergy) |
 | 🥉 | Deep Learning IndabaX Nigeria Hackathon: **3rd Place** |
 | 🏅 | **4x Hackathon Winner** overall |
@@ -130,10 +146,10 @@ I specialize in the full AI lifecycle: from data engineering and model training 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=apprentice-doa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apprentice-doa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apprentice-doa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=apprentice-doa&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=apprentice-doa&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
 </div>
 
@@ -144,7 +160,13 @@ I specialize in the full AI lifecycle: from data engineering and model training 
 ```python
 current_focus = {
     "at_work":     ["Multi-Agent AI Systems", "IoT + Computer Vision Fusion", "AWS Bedrock"],
-    "research":    ["LLM Fine-tuning", "RAG Optimization", "AI Evaluation Frameworks"],
+    "research":    [
+        "Swarm & Chain Drone Systems: architecture, mesh comms, decentralized coordination",
+        "Edge ML on resource-constrained embedded hardware with fault tolerance",
+        "Distributed VLM reasoning across swarm networks for real-time spatial awareness",
+        "Multi-robot path planning & autonomous decision-making for aerial missions",
+        "Deploying intelligent autonomous systems in infrastructure-constrained environments"
+    ],
     "teaching":    ["Production AI Engineering", "Cloud-Native MLOps", "Generative AI Systems"],
     "competing":   ["Kaggle", "Zindi Africa"],
     "north_star":  "Is the AI solving the problem it's expected to solve, under acceptable conditions?"
@@ -155,6 +177,7 @@ current_focus = {
 
 ## ✍️ Articles & Publications
 
+- 📄 [**Does Federated Learning Need a Crowd? Client Count, Not Heterogeneity, Explains FedAvg's Failure on Real Edge Hardware**](https://github.com/Apprentice-doa/Federated-Anomaly-Detection-on-Edge-Devices) *(Best Poster — Deep Learning Indaba 2026, Poster GP-80)*
 - 📄 [**My Last Umoja Hack Africa Experience as an Undergrad**: The Good, the Bad, and the Ugly](https://quantumreports.medium.com/my-last-umoja-hack-africa-experience-as-an-undergrad-the-good-the-bad-and-the-ugly-dbfbaabfb6a4)
 - 📄 [**Driving Electoral Integrity with Data Visualization**: How a Power BI Dashboard Can Revolutionize Your Election Process](https://quantumreports.medium.com/driving-electoral-integrity-with-data-visualization-how-a-power-bi-dashboard-can-revolutionize-d76aa8f66239)
 - 📄 [**Is Hacking Together Your First Python Package Difficult?**: A guide for data students](https://medium.com/@quantumreports/is-writing-your-first-python-package-difficult-2577a61f97ee)
