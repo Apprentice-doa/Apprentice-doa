@@ -146,10 +146,16 @@ I am further interested in federated learning frameworks for collaborative model
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apprentice-doa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=apprentice-doa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apprentice-doa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=apprentice-doa&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apprentice-doa&theme=tokyonight&hide_border=true)
 
 </div>
 
