@@ -87,7 +87,7 @@ I am further interested in federated learning frameworks for collaborative model
 **Impact:** Accelerated data access and purchase information retrieval by **90%**  
 **Stack:** `Python` `LangChain` `SQL` `MLOps` `Drift Detection`
 
-> 🗂️ See all projects → [bit.ly/dan-akhabue](https://bit.ly/dan-akhabue)
+> 🗂️ See all projects → [bit.ly/dan-akhabue]([https://v0-daniel-akhabue.vercel.app/])
 
 ---
 
